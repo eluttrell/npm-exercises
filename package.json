@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/eluttrell/npm-exercises#readme",
   "dependencies": {
-    "lodash": "^4.17.2"
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.2",
+    "request": "^2.79.0"
   }
 }

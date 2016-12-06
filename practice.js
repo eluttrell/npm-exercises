@@ -11,3 +11,6 @@ const _ = require('lodash');
 // }
 //
 // console.log(anagram(process.argv[2]));
+
+// Ex2 - Lodash FlattenDeep(array)
+//
